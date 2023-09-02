@@ -1,3 +1,8 @@
+body{
+    font-family: 'Gluten', cursive;
+
+}
+
 div .BackGround{
     width: 100%;
     height: 100vh;
@@ -52,6 +57,7 @@ div .BackGround{
     justify-content: center;
     color: white;
 }
+
 /*
 text-align: center;
 display: flex;
@@ -76,4 +82,13 @@ justify-content: center;
     align-items: center; 
     justify-content: center;
     height: 300px;
+}
+
+
+.Middle_Sentent1{
+    text-align: center; 
+    display: flex; 
+    align-items: center;  
+    justify-content: center;
+    height: 40px;
 }
